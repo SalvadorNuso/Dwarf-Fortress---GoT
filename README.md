@@ -112,7 +112,7 @@ python main.py
     <summary style="cursor:pointer; color:#a6b3c0"><b>🖼️ Capturas GUI (abre para ver)</b></summary>
     <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px">
       <img src="assets/GUI.png" alt="Mapa y GUI" style="width:90%; min-width:200px; border:1px solid #30363d; border-radius:10px"/>
-      <img src="assets/GUI.png" alt="Stats de cada jugador" style="width:90%; min-width:200px; border:1px solid #30363d; border-radius:10px"/>
+      <img src="assets/stats.png" alt="Stats de cada jugador" style="width:90%; min-width:200px; border:1px solid #30363d; border-radius:10px"/>
     </div>
   </details>
 
