@@ -1,10 +1,5 @@
 <!-- Elegant README (HTML-in-Markdown friendly) -->
 <div style="font-family: Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height:1.55; color:#e6edf3; background:#0d1117; padding:28px; border-radius:16px; border:1px solid #30363d">
-
-  <!-- Header -->
-  <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap">
-    <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-kingdom-medieval-wanicon-lineal-color-wanicon.png" width="54" height="54" alt="GoT Icon"/>
-    <div>
       <h1 style="margin:0; font-size:28px; color:#fff;">Dwarf-Fortress-style: Game of Thrones Simulation</h1>
       <p style="margin:4px 0 0; color:#a6b3c0">Simulador político-económico en Python + Pygame con decisiones autónomas vía <b>heap de prioridad</b>.</p>
     </div>
@@ -13,7 +8,7 @@
   <!-- Badges -->
   <p style="margin:14px 0 6px">
     <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" />
-    <img alt="Pygame" src="https://img.shields.io/badge/Pygame-2.x-0fa958?logo=pygame&logoColor=white" />
+    <img alt="Pygame" src="https://img.shields.io/badge/Pygame-2.5.2-0fa958?logo=pygame&logoColor=white" />
     <img alt="Status" src="https://img.shields.io/badge/Status-Active-success" />
   </p>
 
